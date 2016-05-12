@@ -1,0 +1,26 @@
+{
+  "name": "hotel_bot",
+  "version": "1.0.0",
+  "description": "This is a project to manage a message facebook for a hotel",
+  "main": "server.js",
+  "dependencies": {
+    "http": "0.0.0",
+    "messenger-bot": "^2.2.0",
+    "strict": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "messanger",
+    "facebook",
+    "hotel",
+    "santiago"
+  ],
+  "author": "Josimar Santiago",
+  "license": "MIT",
+  "engines": {
+    "node": "4.4.4"
+  }
+}
